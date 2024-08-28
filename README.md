@@ -1,4 +1,4 @@
-This repository contains the resources of the following 1st year courses in the 2022 scheme of AIML department, RV College of Engineering
+This repository contains the resources of the following 2nd year courses in the 2022 scheme of AIML department, RV College of Engineering
 
 PROFESSIONAL CORE COURSES
 
